@@ -2,8 +2,6 @@
 
 A Python and Jupyter Notebook project for five classical image processing exercises: image enhancement, denoising, edge detection and region segmentation, background removal, and retinal blood vessel extraction. Each exercise includes its notebook, input data, and generated outputs.
 
-> This repository contains coursework and example implementations. See `Project1.pdf` for the original assignment and `HW1_Report_Ehsan_Shafiei_40561321002.pdf` for the project report.
-
 ## Project layout
 
 ```text
