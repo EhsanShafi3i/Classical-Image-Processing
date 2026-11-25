@@ -1,0 +1,5 @@
+noisy_image,filter_name,kernel_size,sigma,filter_parameters,full_psnr_db,worst_roi_psnr_db,mean_roi_psnr_db,smooth_psnr_db,edge_psnr_db,texture_psnr_db
+synthetic_regions__gaussian_s10.png,weighted_median,3,,"{'kernel_size': 3, 'spatial_sigma_scale': 0.45}",31.721611535507677,32.03391314204656,34.07572469272895,35.42326832986212,34.769992606278166,32.03391314204656
+synthetic_regions__gaussian_s25.png,weighted_median,3,,"{'kernel_size': 3, 'spatial_sigma_scale': 0.45}",25.879455412298128,24.139546603159182,26.371216332033526,27.618557447348554,27.355544945592847,24.139546603159182
+synthetic_regions__salt_pepper_p005.png,weighted_median,3,,"{'kernel_size': 3, 'spatial_sigma_scale': 0.45}",31.759541737961964,28.86786982088125,37.383277071425915,42.995290407351504,40.286670986045,28.86786982088125
+synthetic_regions__salt_pepper_p015.png,weighted_median,3,,"{'kernel_size': 3, 'spatial_sigma_scale': 0.45}",26.688273515366397,22.415592877425944,29.926329458344856,36.15375631278397,31.20963918482466,22.415592877425944

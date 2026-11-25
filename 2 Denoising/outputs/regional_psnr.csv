@@ -1,0 +1,209 @@
+noisy_image,filter_name,filter_parameters,region,psnr_db
+synthetic_regions__gaussian_s10.png,none,none,full,28.14738501243484
+synthetic_regions__gaussian_s10.png,none,none,smooth,28.166670798984743
+synthetic_regions__gaussian_s10.png,none,none,edge,28.178047357363695
+synthetic_regions__gaussian_s10.png,none,none,texture,28.148382950701006
+synthetic_regions__gaussian_s10.png,mean,{'kernel_size': 3},full,24.644086227603538
+synthetic_regions__gaussian_s10.png,mean,{'kernel_size': 3},smooth,35.43011388091687
+synthetic_regions__gaussian_s10.png,mean,{'kernel_size': 3},edge,26.908021200581377
+synthetic_regions__gaussian_s10.png,mean,{'kernel_size': 3},texture,19.73935795827074
+synthetic_regions__gaussian_s10.png,mean,{'kernel_size': 5},full,22.394944308253933
+synthetic_regions__gaussian_s10.png,mean,{'kernel_size': 5},smooth,35.80392147692527
+synthetic_regions__gaussian_s10.png,mean,{'kernel_size': 5},edge,24.740710935287403
+synthetic_regions__gaussian_s10.png,mean,{'kernel_size': 5},texture,17.29635133423446
+synthetic_regions__gaussian_s10.png,mean,{'kernel_size': 7},full,20.934013815662645
+synthetic_regions__gaussian_s10.png,mean,{'kernel_size': 7},smooth,35.02592082392825
+synthetic_regions__gaussian_s10.png,mean,{'kernel_size': 7},edge,23.252711886362604
+synthetic_regions__gaussian_s10.png,mean,{'kernel_size': 7},texture,15.818271756220131
+synthetic_regions__gaussian_s10.png,median,{'kernel_size': 3},full,31.678174864999505
+synthetic_regions__gaussian_s10.png,median,{'kernel_size': 3},smooth,35.53648803494108
+synthetic_regions__gaussian_s10.png,median,{'kernel_size': 3},edge,34.811884940884006
+synthetic_regions__gaussian_s10.png,median,{'kernel_size': 3},texture,31.962543525852848
+synthetic_regions__gaussian_s10.png,median,{'kernel_size': 5},full,30.679061904574233
+synthetic_regions__gaussian_s10.png,median,{'kernel_size': 5},smooth,38.673906717072654
+synthetic_regions__gaussian_s10.png,median,{'kernel_size': 5},edge,35.5402546496737
+synthetic_regions__gaussian_s10.png,median,{'kernel_size': 5},texture,30.203548406534964
+synthetic_regions__gaussian_s10.png,median,{'kernel_size': 7},full,28.996260403688233
+synthetic_regions__gaussian_s10.png,median,{'kernel_size': 7},smooth,39.73403762038396
+synthetic_regions__gaussian_s10.png,median,{'kernel_size': 7},edge,34.53434109325523
+synthetic_regions__gaussian_s10.png,median,{'kernel_size': 7},texture,28.376614204778356
+synthetic_regions__gaussian_s10.png,weighted_median,"{'kernel_size': 3, 'spatial_sigma_scale': 0.45}",full,31.721611535507677
+synthetic_regions__gaussian_s10.png,weighted_median,"{'kernel_size': 3, 'spatial_sigma_scale': 0.45}",smooth,35.42326832986212
+synthetic_regions__gaussian_s10.png,weighted_median,"{'kernel_size': 3, 'spatial_sigma_scale': 0.45}",edge,34.769992606278166
+synthetic_regions__gaussian_s10.png,weighted_median,"{'kernel_size': 3, 'spatial_sigma_scale': 0.45}",texture,32.03391314204656
+synthetic_regions__gaussian_s10.png,weighted_median,"{'kernel_size': 5, 'spatial_sigma_scale': 0.45}",full,31.82303275554456
+synthetic_regions__gaussian_s10.png,weighted_median,"{'kernel_size': 5, 'spatial_sigma_scale': 0.45}",smooth,38.60424137817576
+synthetic_regions__gaussian_s10.png,weighted_median,"{'kernel_size': 5, 'spatial_sigma_scale': 0.45}",edge,36.31926437405626
+synthetic_regions__gaussian_s10.png,weighted_median,"{'kernel_size': 5, 'spatial_sigma_scale': 0.45}",texture,30.895857815674322
+synthetic_regions__gaussian_s10.png,weighted_median,"{'kernel_size': 7, 'spatial_sigma_scale': 0.45}",full,29.956328878324868
+synthetic_regions__gaussian_s10.png,weighted_median,"{'kernel_size': 7, 'spatial_sigma_scale': 0.45}",smooth,39.88437110962986
+synthetic_regions__gaussian_s10.png,weighted_median,"{'kernel_size': 7, 'spatial_sigma_scale': 0.45}",edge,35.434748293495765
+synthetic_regions__gaussian_s10.png,weighted_median,"{'kernel_size': 7, 'spatial_sigma_scale': 0.45}",texture,29.18910543658456
+synthetic_regions__gaussian_s10.png,gaussian,"{'kernel_size': 3, 'sigma': 0.8}",full,27.09365093323583
+synthetic_regions__gaussian_s10.png,gaussian,"{'kernel_size': 3, 'sigma': 0.8}",smooth,35.20760046346461
+synthetic_regions__gaussian_s10.png,gaussian,"{'kernel_size': 3, 'sigma': 0.8}",edge,29.270757301048768
+synthetic_regions__gaussian_s10.png,gaussian,"{'kernel_size': 3, 'sigma': 0.8}",texture,22.3868016319394
+synthetic_regions__gaussian_s10.png,gaussian,"{'kernel_size': 5, 'sigma': 1.2}",full,24.547577862147673
+synthetic_regions__gaussian_s10.png,gaussian,"{'kernel_size': 5, 'sigma': 1.2}",smooth,36.42460833347468
+synthetic_regions__gaussian_s10.png,gaussian,"{'kernel_size': 5, 'sigma': 1.2}",edge,26.96646671323244
+synthetic_regions__gaussian_s10.png,gaussian,"{'kernel_size': 5, 'sigma': 1.2}",texture,19.51826937328374
+synthetic_regions__gaussian_s10.png,gaussian,"{'kernel_size': 7, 'sigma': 1.6}",full,23.092635037469922
+synthetic_regions__gaussian_s10.png,gaussian,"{'kernel_size': 7, 'sigma': 1.6}",smooth,36.27629509291086
+synthetic_regions__gaussian_s10.png,gaussian,"{'kernel_size': 7, 'sigma': 1.6}",edge,25.530099195707088
+synthetic_regions__gaussian_s10.png,gaussian,"{'kernel_size': 7, 'sigma': 1.6}",texture,17.994940653774655
+synthetic_regions__gaussian_s25.png,none,none,full,20.28509556311406
+synthetic_regions__gaussian_s25.png,none,none,smooth,20.187387030456648
+synthetic_regions__gaussian_s25.png,none,none,edge,20.371203270066452
+synthetic_regions__gaussian_s25.png,none,none,texture,20.26155073962829
+synthetic_regions__gaussian_s25.png,mean,{'kernel_size': 3},full,23.63923510296359
+synthetic_regions__gaussian_s25.png,mean,{'kernel_size': 3},smooth,29.273896770593154
+synthetic_regions__gaussian_s25.png,mean,{'kernel_size': 3},edge,25.45178470886764
+synthetic_regions__gaussian_s25.png,mean,{'kernel_size': 3},texture,19.39949502852121
+synthetic_regions__gaussian_s25.png,mean,{'kernel_size': 5},full,22.147289810407745
+synthetic_regions__gaussian_s25.png,mean,{'kernel_size': 5},smooth,32.31056760623762
+synthetic_regions__gaussian_s25.png,mean,{'kernel_size': 5},edge,24.37227052367907
+synthetic_regions__gaussian_s25.png,mean,{'kernel_size': 5},texture,17.226377224706166
+synthetic_regions__gaussian_s25.png,mean,{'kernel_size': 7},full,20.838086157981177
+synthetic_regions__gaussian_s25.png,mean,{'kernel_size': 7},smooth,33.1983100872565
+synthetic_regions__gaussian_s25.png,mean,{'kernel_size': 7},edge,23.201913328043776
+synthetic_regions__gaussian_s25.png,mean,{'kernel_size': 7},texture,15.791040009556648
+synthetic_regions__gaussian_s25.png,median,{'kernel_size': 3},full,25.873565493102003
+synthetic_regions__gaussian_s25.png,median,{'kernel_size': 3},smooth,27.736775588536155
+synthetic_regions__gaussian_s25.png,median,{'kernel_size': 3},edge,27.40271842173966
+synthetic_regions__gaussian_s25.png,median,{'kernel_size': 3},texture,24.069301937214004
+synthetic_regions__gaussian_s25.png,median,{'kernel_size': 5},full,25.964464432818257
+synthetic_regions__gaussian_s25.png,median,{'kernel_size': 5},smooth,31.380312864191392
+synthetic_regions__gaussian_s25.png,median,{'kernel_size': 5},edge,29.05699781394546
+synthetic_regions__gaussian_s25.png,median,{'kernel_size': 5},texture,22.389155525692985
+synthetic_regions__gaussian_s25.png,median,{'kernel_size': 7},full,24.752357883774565
+synthetic_regions__gaussian_s25.png,median,{'kernel_size': 7},smooth,33.04463320649356
+synthetic_regions__gaussian_s25.png,median,{'kernel_size': 7},edge,29.022463259117963
+synthetic_regions__gaussian_s25.png,median,{'kernel_size': 7},texture,20.6309253527019
+synthetic_regions__gaussian_s25.png,weighted_median,"{'kernel_size': 3, 'spatial_sigma_scale': 0.45}",full,25.879455412298128
+synthetic_regions__gaussian_s25.png,weighted_median,"{'kernel_size': 3, 'spatial_sigma_scale': 0.45}",smooth,27.618557447348554
+synthetic_regions__gaussian_s25.png,weighted_median,"{'kernel_size': 3, 'spatial_sigma_scale': 0.45}",edge,27.355544945592847
+synthetic_regions__gaussian_s25.png,weighted_median,"{'kernel_size': 3, 'spatial_sigma_scale': 0.45}",texture,24.139546603159182
+synthetic_regions__gaussian_s25.png,weighted_median,"{'kernel_size': 5, 'spatial_sigma_scale': 0.45}",full,26.51519584165047
+synthetic_regions__gaussian_s25.png,weighted_median,"{'kernel_size': 5, 'spatial_sigma_scale': 0.45}",smooth,31.216305825235857
+synthetic_regions__gaussian_s25.png,weighted_median,"{'kernel_size': 5, 'spatial_sigma_scale': 0.45}",edge,29.34655488863918
+synthetic_regions__gaussian_s25.png,weighted_median,"{'kernel_size': 5, 'spatial_sigma_scale': 0.45}",texture,23.087896521650208
+synthetic_regions__gaussian_s25.png,weighted_median,"{'kernel_size': 7, 'spatial_sigma_scale': 0.45}",full,25.480236063285588
+synthetic_regions__gaussian_s25.png,weighted_median,"{'kernel_size': 7, 'spatial_sigma_scale': 0.45}",smooth,33.06658708315966
+synthetic_regions__gaussian_s25.png,weighted_median,"{'kernel_size': 7, 'spatial_sigma_scale': 0.45}",edge,29.61594147079967
+synthetic_regions__gaussian_s25.png,weighted_median,"{'kernel_size': 7, 'spatial_sigma_scale': 0.45}",texture,21.429598971690083
+synthetic_regions__gaussian_s25.png,gaussian,"{'kernel_size': 3, 'sigma': 0.8}",full,25.016420828261246
+synthetic_regions__gaussian_s25.png,gaussian,"{'kernel_size': 3, 'sigma': 0.8}",smooth,28.21890193139318
+synthetic_regions__gaussian_s25.png,gaussian,"{'kernel_size': 3, 'sigma': 0.8}",edge,26.34502302330452
+synthetic_regions__gaussian_s25.png,gaussian,"{'kernel_size': 3, 'sigma': 0.8}",texture,21.589291220844462
+synthetic_regions__gaussian_s25.png,gaussian,"{'kernel_size': 5, 'sigma': 1.2}",full,23.953421566485854
+synthetic_regions__gaussian_s25.png,gaussian,"{'kernel_size': 5, 'sigma': 1.2}",smooth,31.343805049519055
+synthetic_regions__gaussian_s25.png,gaussian,"{'kernel_size': 5, 'sigma': 1.2}",edge,26.087690298764322
+synthetic_regions__gaussian_s25.png,gaussian,"{'kernel_size': 5, 'sigma': 1.2}",texture,19.338943241198717
+synthetic_regions__gaussian_s25.png,gaussian,"{'kernel_size': 7, 'sigma': 1.6}",full,22.838114063101894
+synthetic_regions__gaussian_s25.png,gaussian,"{'kernel_size': 7, 'sigma': 1.6}",smooth,32.838199672440844
+synthetic_regions__gaussian_s25.png,gaussian,"{'kernel_size': 7, 'sigma': 1.6}",edge,25.23259049156426
+synthetic_regions__gaussian_s25.png,gaussian,"{'kernel_size': 7, 'sigma': 1.6}",texture,17.925789767149265
+synthetic_regions__salt_pepper_p005.png,none,none,full,18.20930220671118
+synthetic_regions__salt_pepper_p005.png,none,none,smooth,18.497514951188812
+synthetic_regions__salt_pepper_p005.png,none,none,edge,17.801734110713102
+synthetic_regions__salt_pepper_p005.png,none,none,texture,18.071453884790937
+synthetic_regions__salt_pepper_p005.png,mean,{'kernel_size': 3},full,22.862257605673044
+synthetic_regions__salt_pepper_p005.png,mean,{'kernel_size': 3},smooth,27.625446577322144
+synthetic_regions__salt_pepper_p005.png,mean,{'kernel_size': 3},edge,24.16188386305169
+synthetic_regions__salt_pepper_p005.png,mean,{'kernel_size': 3},texture,18.9495085738234
+synthetic_regions__salt_pepper_p005.png,mean,{'kernel_size': 5},full,21.77184812115023
+synthetic_regions__salt_pepper_p005.png,mean,{'kernel_size': 5},smooth,30.805677336072105
+synthetic_regions__salt_pepper_p005.png,mean,{'kernel_size': 5},edge,23.848965608980347
+synthetic_regions__salt_pepper_p005.png,mean,{'kernel_size': 5},texture,16.95944414823738
+synthetic_regions__salt_pepper_p005.png,mean,{'kernel_size': 7},full,20.579042768293462
+synthetic_regions__salt_pepper_p005.png,mean,{'kernel_size': 7},smooth,31.80562620646157
+synthetic_regions__salt_pepper_p005.png,mean,{'kernel_size': 7},edge,22.791674678466414
+synthetic_regions__salt_pepper_p005.png,mean,{'kernel_size': 7},texture,15.591865328532267
+synthetic_regions__salt_pepper_p005.png,median,{'kernel_size': 3},full,31.615057284255435
+synthetic_regions__salt_pepper_p005.png,median,{'kernel_size': 3},smooth,43.864242661654096
+synthetic_regions__salt_pepper_p005.png,median,{'kernel_size': 3},edge,40.286670986045
+synthetic_regions__salt_pepper_p005.png,median,{'kernel_size': 3},texture,28.70326656155781
+synthetic_regions__salt_pepper_p005.png,median,{'kernel_size': 5},full,29.693362031193942
+synthetic_regions__salt_pepper_p005.png,median,{'kernel_size': 5},smooth,44.17443507174676
+synthetic_regions__salt_pepper_p005.png,median,{'kernel_size': 5},edge,41.07736887270293
+synthetic_regions__salt_pepper_p005.png,median,{'kernel_size': 5},texture,26.516539095504616
+synthetic_regions__salt_pepper_p005.png,median,{'kernel_size': 7},full,27.76990124015878
+synthetic_regions__salt_pepper_p005.png,median,{'kernel_size': 7},smooth,43.08238496012939
+synthetic_regions__salt_pepper_p005.png,median,{'kernel_size': 7},edge,38.215223869780196
+synthetic_regions__salt_pepper_p005.png,median,{'kernel_size': 7},texture,24.603654622027346
+synthetic_regions__salt_pepper_p005.png,weighted_median,"{'kernel_size': 3, 'spatial_sigma_scale': 0.45}",full,31.759541737961964
+synthetic_regions__salt_pepper_p005.png,weighted_median,"{'kernel_size': 3, 'spatial_sigma_scale': 0.45}",smooth,42.995290407351504
+synthetic_regions__salt_pepper_p005.png,weighted_median,"{'kernel_size': 3, 'spatial_sigma_scale': 0.45}",edge,40.286670986045
+synthetic_regions__salt_pepper_p005.png,weighted_median,"{'kernel_size': 3, 'spatial_sigma_scale': 0.45}",texture,28.86786982088125
+synthetic_regions__salt_pepper_p005.png,weighted_median,"{'kernel_size': 5, 'spatial_sigma_scale': 0.45}",full,30.850914852375393
+synthetic_regions__salt_pepper_p005.png,weighted_median,"{'kernel_size': 5, 'spatial_sigma_scale': 0.45}",smooth,44.59199138079883
+synthetic_regions__salt_pepper_p005.png,weighted_median,"{'kernel_size': 5, 'spatial_sigma_scale': 0.45}",edge,42.93502672531186
+synthetic_regions__salt_pepper_p005.png,weighted_median,"{'kernel_size': 5, 'spatial_sigma_scale': 0.45}",texture,27.645015853739537
+synthetic_regions__salt_pepper_p005.png,weighted_median,"{'kernel_size': 7, 'spatial_sigma_scale': 0.45}",full,28.806527075963242
+synthetic_regions__salt_pepper_p005.png,weighted_median,"{'kernel_size': 7, 'spatial_sigma_scale': 0.45}",smooth,43.54277665270362
+synthetic_regions__salt_pepper_p005.png,weighted_median,"{'kernel_size': 7, 'spatial_sigma_scale': 0.45}",edge,39.754408387754026
+synthetic_regions__salt_pepper_p005.png,weighted_median,"{'kernel_size': 7, 'spatial_sigma_scale': 0.45}",texture,25.87823741790418
+synthetic_regions__salt_pepper_p005.png,gaussian,"{'kernel_size': 3, 'sigma': 0.8}",full,23.714604873603943
+synthetic_regions__salt_pepper_p005.png,gaussian,"{'kernel_size': 3, 'sigma': 0.8}",smooth,26.473948401356346
+synthetic_regions__salt_pepper_p005.png,gaussian,"{'kernel_size': 3, 'sigma': 0.8}",edge,24.527243350882543
+synthetic_regions__salt_pepper_p005.png,gaussian,"{'kernel_size': 3, 'sigma': 0.8}",texture,20.693363526202045
+synthetic_regions__salt_pepper_p005.png,gaussian,"{'kernel_size': 5, 'sigma': 1.2}",full,23.28017306270965
+synthetic_regions__salt_pepper_p005.png,gaussian,"{'kernel_size': 5, 'sigma': 1.2}",smooth,29.68114735192637
+synthetic_regions__salt_pepper_p005.png,gaussian,"{'kernel_size': 5, 'sigma': 1.2}",edge,25.022254104193784
+synthetic_regions__salt_pepper_p005.png,gaussian,"{'kernel_size': 5, 'sigma': 1.2}",texture,18.8805096874285
+synthetic_regions__salt_pepper_p005.png,gaussian,"{'kernel_size': 7, 'sigma': 1.6}",full,22.37725679327438
+synthetic_regions__salt_pepper_p005.png,gaussian,"{'kernel_size': 7, 'sigma': 1.6}",smooth,31.25670167744866
+synthetic_regions__salt_pepper_p005.png,gaussian,"{'kernel_size': 7, 'sigma': 1.6}",edge,24.495474795609734
+synthetic_regions__salt_pepper_p005.png,gaussian,"{'kernel_size': 7, 'sigma': 1.6}",texture,17.580764655032468
+synthetic_regions__salt_pepper_p015.png,none,none,full,13.434326267137395
+synthetic_regions__salt_pepper_p015.png,none,none,smooth,13.83505410041492
+synthetic_regions__salt_pepper_p015.png,none,none,edge,13.272893281630934
+synthetic_regions__salt_pepper_p015.png,none,none,texture,13.481504381980008
+synthetic_regions__salt_pepper_p015.png,mean,{'kernel_size': 3},full,20.15607870691298
+synthetic_regions__salt_pepper_p015.png,mean,{'kernel_size': 3},smooth,22.68610577021949
+synthetic_regions__salt_pepper_p015.png,mean,{'kernel_size': 3},edge,20.809728261821363
+synthetic_regions__salt_pepper_p015.png,mean,{'kernel_size': 3},texture,17.56747325916749
+synthetic_regions__salt_pepper_p015.png,mean,{'kernel_size': 5},full,20.405539877453577
+synthetic_regions__salt_pepper_p015.png,mean,{'kernel_size': 5},smooth,25.958458168778037
+synthetic_regions__salt_pepper_p015.png,mean,{'kernel_size': 5},edge,21.766764632185893
+synthetic_regions__salt_pepper_p015.png,mean,{'kernel_size': 5},texture,16.379602808786643
+synthetic_regions__salt_pepper_p015.png,mean,{'kernel_size': 7},full,19.70260752023204
+synthetic_regions__salt_pepper_p015.png,mean,{'kernel_size': 7},smooth,27.41374954582045
+synthetic_regions__salt_pepper_p015.png,mean,{'kernel_size': 7},edge,21.404299532122955
+synthetic_regions__salt_pepper_p015.png,mean,{'kernel_size': 7},texture,15.209789786388303
+synthetic_regions__salt_pepper_p015.png,median,{'kernel_size': 3},full,26.534108588350026
+synthetic_regions__salt_pepper_p015.png,median,{'kernel_size': 3},smooth,37.07707346693963
+synthetic_regions__salt_pepper_p015.png,median,{'kernel_size': 3},edge,31.714167997841038
+synthetic_regions__salt_pepper_p015.png,median,{'kernel_size': 3},texture,22.160038162037242
+synthetic_regions__salt_pepper_p015.png,median,{'kernel_size': 5},full,25.751105684969396
+synthetic_regions__salt_pepper_p015.png,median,{'kernel_size': 5},smooth,39.019122530331394
+synthetic_regions__salt_pepper_p015.png,median,{'kernel_size': 5},edge,33.133993283994855
+synthetic_regions__salt_pepper_p015.png,median,{'kernel_size': 5},texture,20.95244498443781
+synthetic_regions__salt_pepper_p015.png,median,{'kernel_size': 7},full,24.555172391883637
+synthetic_regions__salt_pepper_p015.png,median,{'kernel_size': 7},smooth,38.91372140475259
+synthetic_regions__salt_pepper_p015.png,median,{'kernel_size': 7},edge,38.080635489257034
+synthetic_regions__salt_pepper_p015.png,median,{'kernel_size': 7},texture,20.036462552477268
+synthetic_regions__salt_pepper_p015.png,weighted_median,"{'kernel_size': 3, 'spatial_sigma_scale': 0.45}",full,26.688273515366397
+synthetic_regions__salt_pepper_p015.png,weighted_median,"{'kernel_size': 3, 'spatial_sigma_scale': 0.45}",smooth,36.15375631278397
+synthetic_regions__salt_pepper_p015.png,weighted_median,"{'kernel_size': 3, 'spatial_sigma_scale': 0.45}",edge,31.20963918482466
+synthetic_regions__salt_pepper_p015.png,weighted_median,"{'kernel_size': 3, 'spatial_sigma_scale': 0.45}",texture,22.415592877425944
+synthetic_regions__salt_pepper_p015.png,weighted_median,"{'kernel_size': 5, 'spatial_sigma_scale': 0.45}",full,26.759932489434632
+synthetic_regions__salt_pepper_p015.png,weighted_median,"{'kernel_size': 5, 'spatial_sigma_scale': 0.45}",smooth,39.503026139762795
+synthetic_regions__salt_pepper_p015.png,weighted_median,"{'kernel_size': 5, 'spatial_sigma_scale': 0.45}",edge,37.95343230956442
+synthetic_regions__salt_pepper_p015.png,weighted_median,"{'kernel_size': 5, 'spatial_sigma_scale': 0.45}",texture,22.024297157975823
+synthetic_regions__salt_pepper_p015.png,weighted_median,"{'kernel_size': 7, 'spatial_sigma_scale': 0.45}",full,25.844157622302006
+synthetic_regions__salt_pepper_p015.png,weighted_median,"{'kernel_size': 7, 'spatial_sigma_scale': 0.45}",smooth,39.14484833467519
+synthetic_regions__salt_pepper_p015.png,weighted_median,"{'kernel_size': 7, 'spatial_sigma_scale': 0.45}",edge,38.12984655457512
+synthetic_regions__salt_pepper_p015.png,weighted_median,"{'kernel_size': 7, 'spatial_sigma_scale': 0.45}",texture,21.43337643574226
+synthetic_regions__salt_pepper_p015.png,gaussian,"{'kernel_size': 3, 'sigma': 0.8}",full,20.027218902395564
+synthetic_regions__salt_pepper_p015.png,gaussian,"{'kernel_size': 3, 'sigma': 0.8}",smooth,21.544816292225025
+synthetic_regions__salt_pepper_p015.png,gaussian,"{'kernel_size': 3, 'sigma': 0.8}",edge,20.284286406667015
+synthetic_regions__salt_pepper_p015.png,gaussian,"{'kernel_size': 3, 'sigma': 0.8}",texture,18.374674433528423
+synthetic_regions__salt_pepper_p015.png,gaussian,"{'kernel_size': 5, 'sigma': 1.2}",full,21.043447041841112
+synthetic_regions__salt_pepper_p015.png,gaussian,"{'kernel_size': 5, 'sigma': 1.2}",smooth,24.63419537239734
+synthetic_regions__salt_pepper_p015.png,gaussian,"{'kernel_size': 5, 'sigma': 1.2}",edge,21.989222120518143
+synthetic_regions__salt_pepper_p015.png,gaussian,"{'kernel_size': 5, 'sigma': 1.2}",texture,17.783609618975497
+synthetic_regions__salt_pepper_p015.png,gaussian,"{'kernel_size': 7, 'sigma': 1.6}",full,20.868232754793002
+synthetic_regions__salt_pepper_p015.png,gaussian,"{'kernel_size': 7, 'sigma': 1.6}",smooth,26.333823049216683
+synthetic_regions__salt_pepper_p015.png,gaussian,"{'kernel_size': 7, 'sigma': 1.6}",edge,22.262312560338856
+synthetic_regions__salt_pepper_p015.png,gaussian,"{'kernel_size': 7, 'sigma': 1.6}",texture,16.8783234200645
